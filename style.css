@@ -1,0 +1,127 @@
+/* Global styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Main container */
+.container {
+    width: 80%;
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Header */
+h1 {
+    text-align: center;
+    color: #007BFF;
+    font-size: 28px;
+}
+
+/* Card styles */
+.card {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+/* Button styles */
+button {
+    padding: 10px 20px;
+    background: linear-gradient(135deg, #007BFF, #0056b3);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: linear-gradient(135deg, #0056b3, #003f80);
+}
+
+/* Input styles */
+input {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: calc(50% - 20px);
+    font-size: 16px;
+}
+
+/* Article Styling */
+.article {
+    background-image: url('https://images.unsplash.com/photo-1586020435958-8298e2cb5f64?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJsYWNrJTIwdGV4dHVyZXxlbnwwfHwwfHx8MA%3D%3D'); /* Replace with your desired image URL */
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 40px;
+    border-radius: 8px;
+}
+
+.article h2, .article h3 {
+    color: #fff;
+}
+
+.article p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #fff;
+}
+
+/* Article Image */
+.article-image {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+/* Interactive Box */
+.interactive-box {
+    background: rgba(255, 255, 255, 0.6);
+    padding: 15px;
+    border-radius: 8px;
+    margin: 10px 0;
+}
+
+.interactive-box p {
+    font-size: 16px;
+}
+
+/* List Styling */
+ul {
+    text-align: left;
+    padding: 0 20px;
+}
+
+li {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+/* Tip Box */
+.tip {
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
