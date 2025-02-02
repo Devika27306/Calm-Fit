@@ -55,7 +55,7 @@ For Software:
 ![Screenshot2](./Screenshot/secondpg.png)
 
 # Build Photos
-![Team](https://drive.google.com/file/d/1MIaO9pdaWO7BV9FPfU_TtleFAu_Jtkuk/view?usp=drive_link)
+![Team](IMG_20250202_102402238.jpg)
 
 ### Project Demo
 # Video
