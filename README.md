@@ -11,7 +11,7 @@
 - Member 3: Abhinanda D Ajay - CEMP
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[ https://devika27306.github.io/Calm-Fit/]
 
 ### Project Description
 "Calm Fit" is an interactive fitness web application that allows the users to calculate their Step counter-Calorie calculator,Water Intake tracker,and Body mass index (BMI).The website aims to make fitness assessment quick and easy for everyone.
