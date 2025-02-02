@@ -54,6 +54,9 @@ For Software:
 
 ![Screenshot2](./Screenshot/secondpg.png)
 
+# Build Photos
+![Team](https://drive.google.com/file/d/1MIaO9pdaWO7BV9FPfU_TtleFAu_Jtkuk/view?usp=drive_link)
+
 ### Project Demo
 # Video
 [https://www.loom.com/share/eadc932e88f04c229c2155af23b5d3de?sid=da067f45-e862-478c-9c36-ce6114ec9656]
